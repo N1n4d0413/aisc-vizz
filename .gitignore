@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 /src/v's/
-perceptronMath.js
+/src/perceptronMath.js
